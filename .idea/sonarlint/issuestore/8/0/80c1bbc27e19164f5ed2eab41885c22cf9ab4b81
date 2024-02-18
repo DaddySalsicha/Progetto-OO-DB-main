@@ -1,0 +1,20 @@
+
+q
+java:S1450"TRemove the "login" field and declare it as a local variable in the relevant methods.(ÒûìÌ8ôò†Ó1
+y
+java:S1450"WRemove the "password" field and declare it as a local variable in the relevant methods.(œãë­úÿÿÿÿ8õò†Ó1
+Z	java:S107Í"=Method has 11 parameters, which is greater than 7 authorized.(º€ªŠ8¼ì×†Ó1
+X
+java:S1161â":Add the "@Override" annotation above this method signature(´ùãÔ8…ˆí†Ó1
+W
+java:S1161å":Add the "@Override" annotation above this method signature(ï““<8†ˆí†Ó1
+P
+java:S1128"3Remove this unused import 'Database.ConnessioneDB'.(–ìÙñ8€áï†Ó1
+\
+java:S1128":Remove this unused import 'Database.LoginFailedException'.(°É®‘ùÿÿÿÿ8€áï†Ó1
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8àñó†Ó1
+F
+java:S1068")Remove this unused "login" private field.(ÒûìÌ8¬‘ò†Ó1
+N
+java:S1068",Remove this unused "password" private field.(œãë­úÿÿÿÿ8¬‘ò†Ó1

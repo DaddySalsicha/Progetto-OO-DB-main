@@ -1,0 +1,24 @@
+
+m	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½œ8­øùŞÛ1
+o
+java:S2259å"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(âæ¡8³¼âàÛ1
+]
+java:S2259§"?A "NullPointerException" could be thrown; "m" is nullable here.(†’€ä8ïÛæàÛ1
+b
+java:S2259®"?A "NullPointerException" could be thrown; "s" is nullable here.(œÔßşÿÿÿÿ8…²ìàÛ1
+t
+java:S2259½"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(ü¿À·ûÿÿÿÿ8¨òßàÛ1
+n
+java:S2259Œ"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(‚¶ÃV8——åàÛ1
+o
+java:S2259ò"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(ÅºÑÃ8›¤ãàÛ1
+o
+java:S2259Ë"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(Â¢Úº8ïæààÛ1
+t
+java:S2259ÿ"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(«çÃ™ıÿÿÿÿ8šœäàÛ1
+t
+java:S2259Ø"QA "NullPointerException" could be thrown; "getMilitanzaFromPK()" can return null.(®úÒñşÿÿÿÿ8äÉáàÛ1
+X
+java:S1854æ"5Remove this useless assignment to local variable "t".(¬÷Æ•şÿÿÿÿ8ŠÁ÷àÛ1
+I
+java:S1481æ"&Remove this unused "t" local variable.(¬÷Æ•şÿÿÿÿ8‹Á÷àÛ1

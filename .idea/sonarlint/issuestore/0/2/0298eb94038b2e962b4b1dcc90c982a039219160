@@ -1,0 +1,15 @@
+
+E
+java:S1604 "(Make this anonymous inner class a lambda(…ş©¹8…óÅºÛ1
+J
+java:S1604("(Make this anonymous inner class a lambda(¤Êì»üÿÿÿÿ8¼¦àºÛ1
+n
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(Ü˜üí8öªÅºÛ1
+x
+java:S1104"VMake controller a static final constant or non-public and provide accessors if needed.(Ì£ñÚûÿÿÿÿ8öªÅºÛ1
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÇùÆ
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ƒ«ÅºÛ1
+T
+java:S1068"2Remove this unused "frameChiamante" private field.(°ˆ‚àıÿÿÿÿ8„«ÅºÛ1

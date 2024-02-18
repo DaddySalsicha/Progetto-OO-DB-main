@@ -1,0 +1,35 @@
+
+w
+java:S1192W"ZDefine a constant instead of duplicating this literal "Selezionare un giocatore." 3 times.(Äÿ„8±¦‚¼Û1
+E
+java:S1604*"(Make this anonymous inner class a lambda(…ş©¹8²¦‚¼Û1
+E
+java:S1604J"(Make this anonymous inner class a lambda(ÑûÈ×8²¦‚¼Û1
+E
+java:S1604S"(Make this anonymous inner class a lambda(ÃÏªü8²¦‚¼Û1
+J
+java:S1604b"(Make this anonymous inner class a lambda(»–®ùÿÿÿÿÿ8²¦‚¼Û1
+J
+java:S1604|"(Make this anonymous inner class a lambda(¹í¦¦úÿÿÿÿ8²¦‚¼Û1
+K
+java:S1604‰"(Make this anonymous inner class a lambda(ãËØ“ıÿÿÿÿ8²¦‚¼Û1
+n
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(Ü˜üí8³¦‚¼Û1
+x
+java:S1104"VMake controller a static final constant or non-public and provide accessors if needed.(Ì£ñÚûÿÿÿÿ8³¦‚¼Û1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(á¦ÿ8Ã¦‚¼Û1
+f
+java:S3252#"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8Ä¦‚¼Û1
+T
+java:S1068"2Remove this unused "frameChiamante" private field.(°ˆ‚àıÿÿÿÿ8Î¦‚¼Û1
+T
+java:S1068"2Remove this unused "panelGiocatori" private field.(Ïˆ¿ÿşÿÿÿÿ8Î¦‚¼Û1
+Y
+java:S1068"7Remove this unused "scrollpaneGiocatori" private field.(‘±Æ¿ûÿÿÿÿ8Î¦‚¼Û1
+R
+java:S1068"0Remove this unused "panelBottoni" private field.(ÿµ‰àüÿÿÿÿ8Î¦‚¼Û1
+[
+java:S1068"9Remove this unused "panelBottoniGiocatore" private field.(õÕƒşÿÿÿÿ8Î¦‚¼Û1
+^
+java:S1068"ARemove this unused "panelCaratteristicheGiocatori" private field.(²Œãú8Ï¦‚¼Û1

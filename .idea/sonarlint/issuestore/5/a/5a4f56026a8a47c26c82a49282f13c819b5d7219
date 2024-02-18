@@ -1,0 +1,29 @@
+
+C
+java:S1604%"(Make this anonymous inner class a lambda(Çèã¦øÿÿÿÿ
+C
+java:S1604-"(Make this anonymous inner class a lambda(áŒÃåıÿÿÿÿ
+>
+java:S16046"(Make this anonymous inner class a lambda(§‚ôë
+>
+java:S1604>"(Make this anonymous inner class a lambda(¥š°õ
+l
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(¹å‘şøÿÿÿÿ
+l
+java:S1104"VMake controller a static final constant or non-public and provide accessors if needed.(„šÏñ
+F
+java:S1444"+Make this "public static frame" field final(¹å‘şøÿÿÿÿ
+=
+java:S3010""Remove this assignment of "frame".(À°¨Àüÿÿÿÿ
+_
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+M
+java:S1068"2Remove this unused "frameChiamante" private field.(°ˆ‚àıÿÿÿÿ
+M
+java:S1068"2Remove this unused "panelGiocatori" private field.(Ïˆ¿ÿşÿÿÿÿ
+K
+java:S1068"0Remove this unused "panelSquadre" private field.(ÀµÒçüÿÿÿÿ
+D
+java:S1068".Remove this unused "textField1" private field.(×ŒàÌ
+I
+java:S1068"3Remove this unused "panelCampionati" private field.(›Ñü€

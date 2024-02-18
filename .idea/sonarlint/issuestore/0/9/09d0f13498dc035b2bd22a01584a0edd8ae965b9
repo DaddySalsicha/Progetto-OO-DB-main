@@ -1,0 +1,49 @@
+
+K
+java:S3740!"/Provide the parametrized type for this generic.(¿¿şr8ñ´éÓ1
+d
+java:S1192/"GDefine a constant instead of duplicating this literal "Utente" 3 times.(É®ºŞ8ù”üºÛ1
+E
+java:S16041"(Make this anonymous inner class a lambda(Èú†8Ÿñ´éÓ1
+D
+java:S1604I"(Make this anonymous inner class a lambda(ñŞôU8Ÿñ´éÓ1
+s
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(¹å‘şøÿÿÿÿ8Ÿñ´éÓ1
+x
+java:S1104&"[Make controllerAdmin a static final constant or non-public and provide accessors if needed.(Ÿ‚ØÔ8 ñ´éÓ1
+y
+java:S1104'"\Make controllerUtente a static final constant or non-public and provide accessors if needed.(ûŒÎÕ8 ñ´éÓ1
+M
+java:S1444"+Make this "public static frame" field final(¹å‘şøÿÿÿÿ8 ñ´éÓ1
+1
+java:S1700#"Rename field "login"(ÒûìÌ8¡ñ´éÓ1
+q
+java:S1450#"TRemove the "login" field and declare it as a local variable in the relevant methods.(ÒûìÌ8Éñ´éÓ1
+y
+java:S1450$"WRemove the "password" field and declare it as a local variable in the relevant methods.(œãë­úÿÿÿÿ8Êñ´éÓ1
+y
+java:S1450%"WRemove the "permessi" field and declare it as a local variable in the relevant methods.(™ä„Íûÿÿÿÿ8Êñ´éÓ1
+o
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ø©ñ8åñ´éÓ1
+=
+java:S2129d" Remove this "String" constructor(ú›Úã8Àµû¼Û1
+=
+java:S2129f" Remove this "String" constructor(ğ¸ˆî8Áµû¼Û1
+b
+java:S1117z"ERename "finestraHomeAdmin" which hides the field declared at line 40.(ó¼Ó8ññ´éÓ1
+g
+java:S3252 "IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ùñ´éÓ1
+N
+java:S1068"1Remove this unused "passwordLabel" private field.(‰É¨Š8ûñ´éÓ1
+P
+java:S1068".Remove this unused "loginLabel" private field.(É¨„²üÿÿÿÿ8ûñ´éÓ1
+L
+java:S1068"/Remove this unused "caricamento" private field.(ÑÄ¹8ûñ´éÓ1
+H
+java:S1068"+Remove this unused "loading" private field.(ş¡âä8ûñ´éÓ1
+S
+java:S1068 "1Remove this unused "panelPermessi" private field.(©öİ®øÿÿÿÿ8üñ´éÓ1
+N
+java:S1068""1Remove this unused "labelPermessi" private field.(ÕÖÑé8üñ´éÓ1
+W
+java:S1068("5Remove this unused "finestraHomeAdmin" private field.(øìÊÓûÿÿÿÿ8üñ´éÓ1

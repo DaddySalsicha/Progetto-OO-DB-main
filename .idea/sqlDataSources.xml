@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="37167028-7368-49b8-824c-3e8f00ce7086" name="postgres@localhost Mapping">
+      <data-sources db="c9a86d38-1fcb-4d50-acec-8f042f4e8e82" />
+      <scope>
+        <node kind="database" qname="esame_finale" />
+      </scope>
+    </mapping>
+  </component>
+</project>

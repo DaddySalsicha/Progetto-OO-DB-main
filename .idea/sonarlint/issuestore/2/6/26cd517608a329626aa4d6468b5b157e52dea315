@@ -1,0 +1,81 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ÇƒÒÁ8ĞÕØ¼Û1
+L
+java:S3740"/Provide the parametrized type for this generic.(´¸µ 8ÒÕØ¼Û1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÒÆºùÿÿÿÿ8ÔÕØ¼Û1
+L
+java:S3740#"/Provide the parametrized type for this generic.(­µÙã8ÔÕØ¼Û1
+L
+java:S3740$"/Provide the parametrized type for this generic.(À–ìö8ÔÕØ¼Û1
+D
+java:S1604"(Make this anonymous inner class a lambda(áŒÃåıÿÿÿÿ
+?
+java:S1604•"(Make this anonymous inner class a lambda(ê™
+K
+java:S1604"(Make this anonymous inner class a lambda(óŒ®­ûÿÿÿÿ8ÙÕØ¼Û1
+K
+java:S1604¨"(Make this anonymous inner class a lambda(›°Ü‹ÿÿÿÿÿ8ÙÕØ¼Û1
+F
+java:S1604²"(Make this anonymous inner class a lambda(äÒáó8ÙÕØ¼Û1
+K
+java:S1604¼"(Make this anonymous inner class a lambda(»éÎÌşÿÿÿÿ8ÚÕØ¼Û1
+F
+java:S1604Æ"(Make this anonymous inner class a lambda(’Ê¦‡8ÚÕØ¼Û1
+E
+java:S1604Ğ"(Make this anonymous inner class a lambda(¾…‡8ÚÕØ¼Û1
+F
+java:S1604Ú"(Make this anonymous inner class a lambda(­†ÇÏ8ÚÕØ¼Û1
+K
+java:S1604ä"(Make this anonymous inner class a lambda(ƒô¦Ïıÿÿÿÿ8ÚÕØ¼Û1
+E
+java:S1604î"(Make this anonymous inner class a lambda(³¤äN8ÚÕØ¼Û1
+F
+java:S1604ø"(Make this anonymous inner class a lambda(öØû8ÚÕØ¼Û1
+F
+java:S1604‚"(Make this anonymous inner class a lambda(£Óñ×8ÚÕØ¼Û1
+F
+java:S1604Œ"(Make this anonymous inner class a lambda(Ö‡Œ÷8ÚÕØ¼Û1
+K
+java:S1604•"(Make this anonymous inner class a lambda(úğé úÿÿÿÿ8ÚÕØ¼Û1
+K
+java:S1604­"(Make this anonymous inner class a lambda(ñáùÈüÿÿÿÿ8ÛÕØ¼Û1
+g
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(Ü˜üí
+l
+java:S1104"VMake controller a static final constant or non-public and provide accessors if needed.(„šÏñ
+l	java:S116"PRename this field "Piede" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇƒÒÁ8²ØØ¼Û1
+t
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(Ã¾”“úÿÿÿÿ8¶ØØ¼Û1
+_
+java:S32523"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+c
+java:S1659°"@Declare "eta" and all following declarations on a separate line.(Œ¿ŒÃùÿÿÿÿ8ÔØØ¼Û1
+p
+java:S1659±"MDeclare "golsubitiricerca" and all following declarations on a separate line.(«‡êøÿÿÿÿ8ÔØØ¼Û1
+F
+java:S1659²"(Declare "golsegnati" on a separate line.(™íëÖ8ÔØØ¼Û1
+:
+java:S1116Ö"Remove this empty statement.(•Óàê8âØØ¼Û1
+:
+java:S1116Ú"Remove this empty statement.(‰¹¶8âØØ¼Û1
+:
+java:S1116ß"Remove this empty statement.(Ö·øÃ8ãØØ¼Û1
+?
+java:S1116ã"Remove this empty statement.(âŞçÆşÿÿÿÿ8ãØØ¼Û1
+:
+java:S1116ç"Remove this empty statement.(é¬õ¹8ãØØ¼Û1
+:
+java:S1116ì"Remove this empty statement.(ÏÉî8ãØØ¼Û1
+:
+java:S1116ğ"Remove this empty statement.(”“ı®8äØØ¼Û1
+:
+java:S1116ô"Remove this empty statement.(‹»Û¯8äØØ¼Û1
+H	java:S106"+Replace this use of System.out by a logger.(­ÜÁ8åØØ¼Û1
+K
+java:S1068"0Remove this unused "panelTabella" private field.(õ¤œËıÿÿÿÿ
+P
+java:S1068"5Remove this unused "scrollPaneTabella" private field.(š¶­–şÿÿÿÿ
+I
+java:S1068-".Remove this unused "scrollPane" private field.(õŸ›‚ÿÿÿÿÿ
